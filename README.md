@@ -1,6 +1,6 @@
-# Hey There! <img src="" width="40px"></h2>
+# Hey There! <img src="https://github.com/meghaqweera/meghaqweera/blob/main/hi.gif" width="40px"></h2>
 
-
+####  I'm passionate about changing the world through technology. 
 <!--
 **meghaqweera/meghaqweera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
