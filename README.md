@@ -7,7 +7,7 @@
 
 <h2> Connect with me <img src='https://github.com/meghaqweera/meghaqweera/blob/main/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/meghaqweera'> <img width = '32px' align= 'center' src="https://github.com/meghaqweera/meghaqweera/blob/main/linked-in-alt.svg"/></a>  
-<a href = 'https://www.github.com/meghaqweera'> <img width = '32px' align= 'center' src="https://github.com/meghaqweera/meghaqweera/blob/main/github.svg"/></a> 
+<a href = 'https://www.github.com/meghaqweera'> <img width = '32px' align= 'center' src="https://github.com/meghaqweera/meghaqweera/blob/main/github.svg"/></a>
 <br/>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghaqweera&label=Profile%20views&color=0e75b6&style=flat" alt="meghaqweera" /> </p>
