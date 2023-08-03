@@ -1,11 +1,10 @@
 # Hey There! <img src="https://github.com/meghaqweera/meghaqweera/blob/main/hi.gif" width="40px"></h2>
-## I am Megha and I'm passionate about changing the world through technology. 
+### I am Megha and I'm passionate about changing the world through technology. 
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/benjaminbahrenburg'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/bencoding'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/twitter.svg"/></a> 
-<a href = 'https://www.github.com/benbahrenburg'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/github.svg"/></a> 
+<h2> Connect with me <img src='https://github.com/meghaqweera/meghaqweera/blob/main/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/meghaqweera'> <img width = '32px' align= 'center' src="https://github.com/meghaqweera/meghaqweera/blob/main/linked-in-alt.svg"/></a>  
+<a href = 'https://www.github.com/meghaqweera'> <img width = '32px' align= 'center' src="https://github.com/meghaqweera/meghaqweera/blob/main/github.svg"/></a> 
 
 
 
