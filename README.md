@@ -1,6 +1,8 @@
 # Hey There! I am Megha <img src="https://github.com/meghaqweera/meghaqweera/blob/main/hi.gif" width="40px"></h2>
 
-#  I'm passionate about changing the world through technology. 
+</p>
+ I'm passionate about changing the world through technology.
+</div>
 
 
 <h2> Connect with me <img src='https://github.com/meghaqweera/meghaqweera/blob/main/handshake.gif' width="100px"> </h2>
